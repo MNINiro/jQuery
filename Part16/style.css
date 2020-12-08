@@ -1,0 +1,23 @@
+.txt1{
+    border: 2px solid #222;
+    background: red;
+    padding: 20px;
+    color: #fff;
+}
+
+.txt2{
+    font-size: large; 
+    text-transform: uppercase;
+}
+
+.txt3{
+    border: 2px solid rgb(179, 6, 6);
+    width: 150px;
+    height: 150px;
+    
+}
+
+.txt4{
+    background-color: #222;
+}
+

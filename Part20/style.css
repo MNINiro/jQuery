@@ -1,0 +1,9 @@
+.descendent * {
+    display: block;
+    padding: 15px;
+    color: #333;
+    border: 2px solid #333;
+    margin: 15px;
+}
+
+
