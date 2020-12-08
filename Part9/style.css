@@ -1,0 +1,21 @@
+.btn{
+    width: 500px;
+    background: red;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin: auto;
+}
+
+.lorem{
+    width: 500px;
+    background: green;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    display: none;
+    overflow: hidden; /*to hide overflow text */
+}
+button{
+    font-size: 20px;
+}

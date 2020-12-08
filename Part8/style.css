@@ -1,0 +1,19 @@
+div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    padding: 10px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.dy{
+    width: 100px;
+    height: 100px;
+    background: green;
+    padding: 10px;
+    margin-top: 50px;
+    position: relative;
+    font-size: 15px;
+    text-align: center;
+}
